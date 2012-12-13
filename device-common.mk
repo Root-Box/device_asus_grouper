@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-PRODUCT_AAPT_CONFIG := normal large tvdpi hdpi
+PRODUCT_AAPT_CONFIG := normal large tvdpi hdpi xhdpi
 PRODUCT_AAPT_PREF_CONFIG := tvdpi
 
 
